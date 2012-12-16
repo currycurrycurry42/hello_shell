@@ -1,0 +1,26 @@
+#! /bin/sh -
+##
+## usage:
+##	build-all [ --? ]
+##		  [ --all "..." ]
+##		  [ --cd "..." ]
+##		  [ --check "..." ]
+##		  [ --configure "..." ]
+##		  [ --environment "..." ]
+##		  [ --help ]
+##		  [ --logdirectory dir ]
+##		  [ --on "[user@]host[:dir][,envfile] ..." ]
+##		  [ --source "dir ..." ]
+##		  [ --userhosts "file(s)" ]
+##		  [ --version ]
+##		  package(s)
+##
+## initial condition:		  
+##	$HOME/.build/directories	directories contained sources
+##	$HOME/.build/userhosts		[user@]host[:dir][,envfile]
+##
+##
+
+
+
+
